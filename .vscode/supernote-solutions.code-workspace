@@ -1,0 +1,28 @@
+{
+    "folders": [
+        {
+            "name": "ROOT",
+            "path": ".."
+        },
+        {
+            "name": "supernote-hyperlinked-PDF-generator",
+            "path": "../hyperlinkedPDFGenerator"
+        },
+        {
+            "name": "supernote-converterLib",
+            "path": "../supernote-converterLib"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/CVS": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            "hyperlinkedPDFGenerator/": true,
+            "supernote-converterLib/": true
+        }
+    }
+}

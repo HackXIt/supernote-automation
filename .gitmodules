@@ -1,0 +1,6 @@
+[submodule "hyperlinkedPDFGenerator"]
+	path = hyperlinkedPDFGenerator
+	url = git@github.com:HackXIt/hyperlinkedPDFGenerator.git
+[submodule "supernote-converterLib"]
+	path = supernote-converterLib
+	url = git@github.com:HackXIt/supernote-converterLib.git
