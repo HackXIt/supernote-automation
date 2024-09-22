@@ -44,8 +44,8 @@ These pre-conditions apply to MY use-case and should help differentiate the requ
 
 # Project Tasks
 
-- [ ] Create a supernote PDF template, which later is used by machines to extract information in specific sections via OCR or similar.
 - [ ] Create a worker program (docker container), which will detect changes in OneDrive and gather NEW notes to be processed.
 - [ ] Create a configuration structure, which will hold the configuration for the worker. (preferably yaml)
 - [ ] Create a script, which will automatically export NEW notes found in OneDrive to PDF/other configured formats.
 - [ ] Create a script, which will gather notes from the synced folder and create vault notes in Obsidian for them.
+- [ ] Create a supernote PDF template, which later is used by machines to extract information in specific sections via OCR or similar.
